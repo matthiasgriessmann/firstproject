@@ -1,5 +1,5 @@
 # firstproject
-this is my first project on Software Carpentry and it is nice
+this is my first project on Software Carpentry
 add some text for some reason
 
 ## Idea
