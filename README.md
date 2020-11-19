@@ -1,4 +1,5 @@
 # firstproject
+<<<<<<< HEAD
 this is my first project on Software Carpentry
 add some text for some reason
 
