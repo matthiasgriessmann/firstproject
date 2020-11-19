@@ -1,9 +1,9 @@
 # firstproject
-This is my first project on Software Carpentry.
-Add some text for some reason.
+this is my first project on Software Carpentry
+add some text for some reason
 
 ## Idea
-Basic idea for this very important text
+basic idea for this very important text
 
 ### First theme
 description of main theme
