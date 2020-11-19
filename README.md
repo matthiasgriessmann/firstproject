@@ -11,8 +11,10 @@ description of main theme
 ### Second theme
 description of secondary theme
 
+### Third theme
+in the subtext only
+
 ## List of future improvements
 
 - 1
 - 2
-- 3
